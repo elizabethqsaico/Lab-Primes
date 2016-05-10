@@ -1,0 +1,48 @@
+body{ 
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif; 
+	font-size: 14px;
+	color: #888;
+}
+h1,h2,h3,h4{
+	font-family: Arial, serif;
+	color: #2E2E2E;
+	margin: 0;
+	padding: 0;
+}
+/*button{
+	border: none;
+	padding: 2% 3rem;
+}*/
+
+#contactus{ 
+	background: url(../img/background/contactus.jpg);
+	background-size: cover;
+	background-position: left; 
+	color: #fff;
+}
+#customers img{ max-width: 15%; border-radius: 50%;}
+#contactus .opacity{ background-color: rgba(24, 24, 20, 0.7); padding-bottom: 5%;}
+#contactus h3,h4{ color: #fff; margin-top: 2%;}
+#contactus p{ color: #fff; margin-top: 2%;}
+#contactus .address p{ color: #fff; margin-top: 2%; display: inline-block; padding-left: 2%; padding-right: 2%;}
+#contactus input{ background-color: rgba(49, 52, 52, 0.6); border: none; outline: none;}
+#contactus textarea{ background-color: rgba(49, 52, 52, 0.6); border: none; outline: none;}
+#followus h3{ margin-top: 5%; }
+#followus p{  margin-top: 2%; margin-left: 10%; margin-right: 10%; }
+#followus i{color: #2E2E2E; margin-left: 2%; margin-top: 5%; margin-bottom: 5%;}
+footer{ background: #2E2E2E; }/* Color de fondo para pie de página */
+footer p{ padding-top:2%; padding-bottom: 2%;}
+
+
+@media(max-width: 750px){/* Cambia de tamaño la letra del pie de pagina*/
+	#customers img{ max-width: 25%;}
+	#contactus .opacity{padding-bottom: 15%;}
+	#contactus p,span{ margin-top:5%; }
+	#contactus h3, h4{ margin-top: 4%; }
+	#contactus p{font-size: 12px;}
+	#contactus a{margin-bottom: 10%;}
+	#followus h3{ margin-top: 10%;}
+	#followus p{ margin-top: 5%;}
+	#followus i{ font-size: 35px; margin-top: 10%; margin-bottom: 10%; }
+	footer p{ font-size: 10px; padding-top:5%; padding-bottom: 5%;}
+}
