@@ -63,6 +63,8 @@ header p:nth-child(2){margin-left: 14%; margin-right: 14%;}
 padding:1% 2%; color: #fff;}
 .header-btn a:nth-child(2){margin-left: 3%;}
 .header-btn a:hover{background-color: #6e6e6e; color: #fff;}
+.features-iconos{font-size: 40px; color: #0dc0c0;}
+.features-text{padding-left: 13%; padding-right: 13%;}
 #package{ background-color: rgb(244, 244, 244); }
 #package .content{ padding: 5% 3%; }
 #package h2{ color:#fff; }
