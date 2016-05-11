@@ -75,6 +75,25 @@ padding:1% 2%; color: #fff;}
 #more-features img{width: 60%;}
 .more-features-text{padding-left: 6%; padding-top:0; margin-top: 0;}
 .more-features-icon{font-size: 30px; color: #0dc0c0; padding-bottom: 0; margin-bottom: 0; padding-right: 1%; padding-top: 2%;}
+#portfolio{ background-color: rgb(244, 244, 244); }
+#portfolio h3,h4{ margin-top: 2%; margin-bottom: 2%;}
+#portfolio p{ margin: 0; padding: 0; }
+#portfolio li{margin: 2% 0 1% 0; padding: 0;}
+#portfolio a{ background: #fff; color: #2E2E2E; padding: 8px 6px; text-decoration: none;}
+#portfolio a:hover{ background: #0dc0c0; color: #fff; padding: 8px 6px; text-decoration: none;}
+#portfolio .portfolio-img{ padding: 1%;  margin-bottom: 2%;}
+#portfolio img{ width: 100%; }
+#portfolio button{ border: none; padding: 1%; color: #fff;}
+#city{
+	background: url(../img/background/city.jpg);
+	background-size: 80%;
+	background-position: top; 
+	color: #fff;
+}
+#city .opacity{ background-color: rgba(24, 24, 20, 0.6); padding-bottom: 10%;}
+#city p{margin-top: 10%; margin-bottom: 5%;}
+#city a{ background-color: rgba(254, 255, 255, 0.2); padding: 1% 2%; color: #fff; text-decoration: none;}
+#city a:hover{ background-color: rgba(254, 255, 255, 0.4); text-decoration: none;}
 #package{ background-color: rgb(244, 244, 244); }
 #package .content{ padding: 5% 3%; }
 #package h2{ color:#fff; }
