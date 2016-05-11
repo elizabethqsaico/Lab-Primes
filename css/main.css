@@ -63,10 +63,8 @@ header p:nth-child(2){margin-left: 14%; margin-right: 14%;}
 padding:1% 2%; color: #fff;}
 .header-btn a:nth-child(2){margin-left: 3%;}
 .header-btn a:hover{background-color: #6e6e6e; color: #fff;}
-<<<<<<< HEAD
 .features-iconos{font-size: 40px; color: #0dc0c0;}
 .features-text{padding-left: 13%; padding-right: 13%;}
-=======
 #portfolio{ background-color: rgb(244, 244, 244); }
 #portfolio h3,h4{ margin-top: 2%; margin-bottom: 2%;}
 #portfolio p{ margin: 0; padding: 0; }
@@ -86,7 +84,6 @@ padding:1% 2%; color: #fff;}
 #city p{margin-top: 10%; margin-bottom: 5%;}
 #city a{ background-color: rgba(254, 255, 255, 0.2); padding: 1% 2%; color: #fff; text-decoration: none;}
 #city a:hover{ background-color: rgba(254, 255, 255, 0.4); text-decoration: none;}
->>>>>>> 1a557c1164b3bbb8406691693c3db126b0509f85
 #package{ background-color: rgb(244, 244, 244); }
 #package .content{ padding: 5% 3%; }
 #package h2{ color:#fff; }
