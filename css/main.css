@@ -36,6 +36,7 @@ header{
 }
 header .opacity{background-color: rgba(24,24,20,0.7);}
 header ul{ text-align: right; }
+.header-menu a{ padding-left: 35%; }
 header p:first-child{font-weight: bold; font-size: 20px;}
 header a{color: #fff; font-weight: bold;}
 header a:hover{color:#0dc0c0; text-decoration: none;}
@@ -99,6 +100,7 @@ footer p{ padding-top:2%; padding-bottom: 2%;}
 @media(max-width: 750px){/* Cambia de tamaño en elementos cuando la pantalla mide 750px*/
 	header ul{ text-align: center; }
 	header h1{ font-size:50px; padding-left: 10%; margin-right: 10%; }
+	.header-menu a{ padding-left: 0; }
 	.header-btn{ margin-bottom: 25%; }
 	.header-btn a{padding:3% 2%;}
 	#features h4{ margin-top: 0; }
