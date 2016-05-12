@@ -98,7 +98,6 @@ footer p{ padding-top:2%; padding-bottom: 2%;}
 
 @media(max-width: 750px){/* Cambia de tamaño en elementos cuando la pantalla mide 750px*/
 	header ul{ text-align: center; }
-	header .header-menu{ margin-left: 2%; margin-right: 2%;}
 	header h1{ font-size:50px; padding-left: 10%; margin-right: 10%; }
 	.header-btn{ margin-bottom: 25%; }
 	.header-btn a{padding:3% 2%;}
