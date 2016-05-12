@@ -51,7 +51,7 @@ header p:nth-child(2){margin-left: 14%; margin-right: 14%;}
 #more-features img{width: 60%;}
 .more-features-text{margin-left: 8%;}
 .more-features-text p{padding:0; margin: 0;}
-.more-features-icon{font-size: 30px; color: #0dc0c0; padding-bottom: 0; margin-bottom: 0; margin-right: 1%; padding-top: 2%;}
+.more-features-icon{font-size: 30px; color: #0dc0c0; padding-bottom: 0; margin-bottom: 0; margin-right: 1%;}
 #portfolio{ background-color: rgb(244, 244, 244); }
 #portfolio h3,h4{ margin-top: 2%; margin-bottom: 2%;}
 #portfolio p{ margin: 0; padding: 0; }
@@ -106,7 +106,7 @@ footer p{ padding-top:2%; padding-bottom: 2%;}
 	.features-text{padding-left: 8%; padding-right: 8%;}
 	#more-features img{width: 70%;}
 	#more-features .col-md-6{ padding-top: 5%; padding-left: 5%; padding-right: 5%; }
-	.more-features-text{ padding-left: 2%; }
+	.more-features-text{ padding-left: 3%; }
 	.bg-city{ margin: 20% 5%;}
 	#city p{ padding-bottom: 10%; }
 	#city a{ padding: 3% 2%;}
